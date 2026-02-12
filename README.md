@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kreshnaakarmacharya](https://github.com/kreshnaakarmacharya)
 
-- 📝 I regularly write articles on [Currently not writing publicly, planning to start soon.](Currently not writing publicly, planning to start soon.)
-
 - 💬 Ask me about **Java, JDBC, Spring Boot, MySQL, REST APIs, CRUD Applications**
 
 - 📫 How to reach me **krishnaakarmacharya82@gmail.com**
